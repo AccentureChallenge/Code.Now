@@ -4,7 +4,7 @@ This competition is organized by Accenture, Fraumünsterstrasse 16, 8001 Zurich 
 
 Hereinafter the exclusively used masculine form is meant to be gender-neutral and includes both sexes.
 
-Participation in the competition is free of charge and independent of the purchase of goods or services. Participation is possible exclusively on the Github page (https://github.com/AccentureRecruiting/ApplyByCode) of Accenture. Only one entry per person is allowed in the competition and each participant can be awarded with one prize only. By entering the competition, the participant accepts these terms and conditions.
+Participation in the competition is free of charge and independent of the purchase of goods or services. Participation is possible exclusively on the Github page (https://github.com/AccentureChallenge/Code.Now) of Accenture. Only one entry per person is allowed in the competition and each participant can be awarded with one prize only. By entering the competition, the participant accepts these terms and conditions.
 
 Eligible to participate are all persons who at the time of their participation have reached the age of 18, are legally competent and have their permanent residence and domicile in Switzerland. Internal and external employees of Accenture and employees of Accenture affiliated companies as well as their relatives are excluded from the competition. From participation are also excluded persons who take advantage of prohibited means or in other ways seek advantage by means of manipulation. In the aforementioned cases, prizes may also be subsequently denied and reclaimed. Anyone who provides false personal details can also be excluded from the participation.
 
