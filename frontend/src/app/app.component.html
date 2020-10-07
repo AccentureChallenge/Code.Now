@@ -1,0 +1,29 @@
+<!-- Toolbar -->
+<mat-toolbar class="header greenheader">
+  <div>Accenture - Code.Now!</div>
+  <span class="nav-tool-items">
+    <mat-icon (click)="sidenav.toggle()" class="hamburger">menu</mat-icon>
+  </span>
+</mat-toolbar>
+
+<mat-sidenav-container>
+  <!-- Sidenav -->
+  <mat-sidenav
+    #sidenav
+    [mode]="isBiggerScreen() ? 'over' : 'side'"
+    [(opened)]="opened"
+    [fixedInViewport]="true"
+    [fixedTopGap]
+  >
+    <mat-nav-list>
+      <a mat-list-item routerLinkActive="active" routerLink="/dashboard">
+        <mat-icon>dashboard</mat-icon> Dashboard
+      </a>
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <!-- Main content -->
+  <mat-sidenav-content>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>

@@ -1,0 +1,10 @@
+.bg {
+    height: 100%;
+    margin: -25px -40px 0;
+}
+
+@media (max-width: 1024px){
+    .bg {
+        margin: -20px -20px 0;
+    }
+}
