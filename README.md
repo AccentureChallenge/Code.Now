@@ -40,10 +40,10 @@ The frontend should be user friendly and fulfill the following requirements;
 - The list must support infinite scrolling and should be sortable by each attribute(ASC and DESC)
 
 Additionally, the client demands a solution capable of filtering the data by;
-_ one country
-_ one city
+- one country
+- one city
 
-The project will soon scale and more developers will support you on feature development. Therefore developer guidelines such as testing and code organization are key factors for the success of this project.
+The project will soon scale and more developers will support you on feature development. Therefore, clean code principles, appropriate test coverage and code documentation are key factors and highly valued.
 
 #### In the Backend:
 
