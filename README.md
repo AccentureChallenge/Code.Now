@@ -56,8 +56,7 @@ Following featuers need to be considered;
 
 ## Setup
 
-Download and unzip the source repository or clone it using Git:
-git clone https://github.com/AccentureChallenge/Code.Now.git
+Download and unzip the source repository or clone it using Git.
 
 ### Frontend
 
