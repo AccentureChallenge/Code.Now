@@ -10,7 +10,7 @@ Air pollution is an important topic and will influence the quality of our future
 
 ​You have been hired by the company as a full stack developer to build an air quality app which makes it possible for everyone to check the air quality in their cities. Are you up for the challenge?​
 
-Among all correct submitted codes we will raffle three Oculus Quests! This is a full stack developer challenge which consists of a frontend and a backend development part. Clone the according repository and solve the challenge. To submit you will have to push your work to your own GitHub account and make sure your repository is public. All we need is the link to your repository until 10.01.2020.​
+Among all correct submitted codes we will raffle three Oculus Quests! This is a full stack developer challenge which consists of a frontend and a backend development part. Clone the according repository and solve the challenge. To submit you will have to push your work to your own GitHub account and make sure your repository is public. All we need is the link to your repository until 10.01.2021.​
 
 Let`s make an impact together! We are looking forward to your solutions!​
 
