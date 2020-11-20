@@ -48,11 +48,11 @@ The project will soon scale and more developers will support you on feature deve
 #### In the Backend:
 
 The design and implementation of the backend component is part of your responsibility. The air quality data for the web app is provided by the [Open AQ Platform API](https://openaq.org/#/?_k=bgfemx).
-Following featuers need to be considered;
+The backend needs to be capable to;
 
 - Fetch data from AQ public API
-- Insert data into a database
-- Build a webservice to serve the frontend
+- Insert AQ API data into a database
+- Provide endpoint to serve AQ data to the frontend
 
 ## Setup
 
