@@ -60,10 +60,12 @@ Download and unzip the source repository or clone it using Git.
 
 ### Frontend
 
-#### What you need
+This section describes the procedure to run the project with our predefined setup by using Angular, Node and npm.
+Of course, you are also allowed to use your fronted framework (and package manager) of choice like React, Vue, Svelte etc., or even your own custom approach.
 
-- A favorite text editor or IDE
-- [Node.js 12.16.2](https://nodejs.org/en/download/) or later which includes npm (Node Package Manager)
+#### What you need to get our example going
+
+- [Node.js 12.16.2](https://nodejs.org/en/download/) or later which already includes npm
 - Install the [Angular CLI](https://angular.io/guide/setup-local) via npm in your terminal: `npm install -g @angular/cli`
 
 #### How to run the frontend application
