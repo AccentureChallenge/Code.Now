@@ -65,7 +65,7 @@ Of course, you are also allowed to use your fronted framework (and package manag
 
 #### What you need to get our example going
 
-- [Node.js 12.16.2](https://nodejs.org/en/download/) or later which already includes npm
+- [Node.js 12.16.2](https://nodejs.org/en/download/) or later
 - Install the [Angular CLI](https://angular.io/guide/setup-local) via npm in your terminal: `npm install -g @angular/cli`
 
 #### How to run the frontend application
