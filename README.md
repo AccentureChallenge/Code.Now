@@ -65,13 +65,13 @@ Of course, you are also allowed to use your fronted framework (and package manag
 
 #### What you need to get our example going
 
-- [Node.js 12.16.2](https://nodejs.org/en/download/) or later
-- Install the [Angular CLI](https://angular.io/guide/setup-local) via npm in your terminal: `npm install -g @angular/cli`
+- Install [Node.js 12.16.2](https://nodejs.org/en/download/) or later which includes npm
+- Install [Angular CLI](https://angular.io/guide/setup-local) via npm in your terminal: `npm install -g @angular/cli`
 
 #### How to run the frontend application
 
 - Once checked out, navigate to the `frontend` folder
-- In the terminal, run `npm install` to download all dependencies
+- In the terminal, run `npm install` to install all dependencies
 - To run the application, execute the command `ng serve` (development mode)
 - Navigate to `http://localhost:4200/` in your browser to view the application
 
