@@ -1,4 +1,4 @@
-## Conditions of participation in the competition (Switzerland) 
+## Conditions of participation in the competition
 
 This competition is organized by Accenture AG, Fraumünsterstrasse 16, 8001 Zurich (hereinafter referred to as "Accenture").
 
